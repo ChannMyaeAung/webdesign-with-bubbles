@@ -3,6 +3,8 @@ Hi, my name is Chan.
 <br>
 This is just a UI i made with just HTML and CSS.
 <br>
+I’m looking to collaborate on any kind of internship which will get me necessary experience to jump into the professional IT industry.
+<br>
 Contact Me: chanaung48944@gmail.com
 
 
